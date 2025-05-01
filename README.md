@@ -2,7 +2,7 @@
 // Hello World, I’m
 const developer = {
   alias: "Lady_N",
-  name: "Ndeye Coumba (Asyah) NDAO",
+  name: "Ndeye Coumba (Asyah) SENE NDAO",
   passion: "Building full stack apps & exploring the cloud ☁️",
   techStack: ["MERN", "TailwindCSS", "Docker", "AWS", "Kubernetes"],
 };
